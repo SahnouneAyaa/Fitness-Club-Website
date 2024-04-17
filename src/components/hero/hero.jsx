@@ -17,6 +17,8 @@ const Hero = () => {
         duration : 2
     }
     const mobile = window.innerWidth<=768 ? true: false;
+
+
   return (
     <div className="hero" id='hero'>
         <div className="blur blur-h"></div>
@@ -25,7 +27,9 @@ const Hero = () => {
 
             <div className="the-best-ad">
                 <motion.div
-                initial={{left : mobile? '165px': '238px'}}
+                initial={
+                    {left : mobile? '165px': '238px'}
+                }
                 whileInView={{left:'8px'}}
                 transition={{...transition, type:'tween'}}
                 ></motion.div>
@@ -77,7 +81,9 @@ const Hero = () => {
                 <span>Heart Rate</span>
                 <span>116 bpm</span>
             </motion.div>
+
             <img src={himg} alt="" className='himg'/>
+            
             <motion.img 
             initial={{right:"11rem"}}
             whileInView={{right: "20rem"}}

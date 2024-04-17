@@ -26,7 +26,8 @@ const Header = () => {
               spy={true}
               smooth={true}
               >Home</Link> 
-            </li>            <li>
+            </li>            
+            <li>
               <Link
               onClick={()=>setMenuOpened(false)}
               to='programs'

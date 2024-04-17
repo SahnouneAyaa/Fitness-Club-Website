@@ -25,6 +25,7 @@ const Footer = () => {
         <div className="blur blur-f1"></div>
         <div className="blur blur-f2"></div>
 
+        <span> &copy; 2022 Sahnoune Aya. All rights reserved.</span>
     </div>
   )
 }

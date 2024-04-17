@@ -35,7 +35,7 @@
   font-weight: bold;
   border: 4px solid transparent;
   cursor: pointer;
-  transition: 0.3ms all;
+  transition: 0.3s all;
 }
 
 .blur{

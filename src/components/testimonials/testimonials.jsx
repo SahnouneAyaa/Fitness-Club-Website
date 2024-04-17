@@ -14,6 +14,7 @@ const Testimonials = () => {
     type: 'tween',
     duration : 2
   }
+  
   return (
     <div className="testimonials">
         <div className="left-t">

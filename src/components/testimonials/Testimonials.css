@@ -106,4 +106,7 @@
         bottom: 0;
         left: 0;
     }
+    .right-t>:last-child img{
+        margin-left: 10px;
+    }
 }
