@@ -49,9 +49,9 @@
     background: red;
 }
 
-.footer-container span{
-    font-weight: bold;
+.footer-container p{
     font-size: 1.2rem;
-    margin-left: 10px;
-    color: white;
+    color: white;    
+    margin-bottom: 20px;
+    text-align: center;
 }
