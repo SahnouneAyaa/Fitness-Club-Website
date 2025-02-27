@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Fitness-Club-Website/static/css/main.96186433.css",
-    "main.js": "/Fitness-Club-Website/static/js/main.46d7b6f1.js",
+    "main.css": "/Fitness-Club-Website/static/css/main.d9d279bc.css",
+    "main.js": "/Fitness-Club-Website/static/js/main.e8aff861.js",
     "static/media/hero_image.png": "/Fitness-Club-Website/static/media/hero_image.e19ac0c6b1009c7280f5.png",
     "static/media/t-image1.png": "/Fitness-Club-Website/static/media/t-image1.c16c2c261034cf78ee57.png",
     "static/media/image1.png": "/Fitness-Club-Website/static/media/image1.1091417d32e491f0bbb6.png",
@@ -12,11 +12,11 @@
     "static/media/t-image2.jpg": "/Fitness-Club-Website/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
     "static/media/hero_image_back.png": "/Fitness-Club-Website/static/media/hero_image_back.9f54bfba33048f4ca688.png",
     "index.html": "/Fitness-Club-Website/index.html",
-    "main.96186433.css.map": "/Fitness-Club-Website/static/css/main.96186433.css.map",
-    "main.46d7b6f1.js.map": "/Fitness-Club-Website/static/js/main.46d7b6f1.js.map"
+    "main.d9d279bc.css.map": "/Fitness-Club-Website/static/css/main.d9d279bc.css.map",
+    "main.e8aff861.js.map": "/Fitness-Club-Website/static/js/main.e8aff861.js.map"
   },
   "entrypoints": [
-    "static/css/main.96186433.css",
-    "static/js/main.46d7b6f1.js"
+    "static/css/main.d9d279bc.css",
+    "static/js/main.e8aff861.js"
   ]
 }
